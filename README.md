@@ -29,27 +29,27 @@ Users also provide us with three functionalites-:
 
 
 
-## Output Images of the project
-# Main Menu Page
+# Output Images of the project
+## Main Menu Page
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/Screenshot%20(804).png?raw=true)
 
-# Admin Options
+## Admin Options
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/4.png?raw=true)
 
-# User Options
+## User Options
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/Screenshot%20(809).png?raw=true)
 
-# Add Book Option in Admin 
+## Add Book Option in Admin 
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/5.png?raw=true)
 
-# Number of avaiable books in admin
+## Number of avaiable books in admin
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/Screenshot%20(806).png?raw=true)
 
-# Search for Book in Users
+## Search for Book in Users
+![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/2.png?raw=true)
+
+## Issure Book In users
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/3.png?raw=true)
 
-# Issure Book In users
+## Return Book in Users
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/1.png?raw=true)
-
-# Return Book in Users
-
