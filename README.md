@@ -13,18 +13,23 @@ Visual Studio Code or ay c++ complier
 ## What his project does?
 This project helps us to maintain a Library system in which we have two option
 1.User
+
 2.Admin
 
 # Admin
 Admin gives us three functionalites-:
 1.Add Book
+
 2.Number of Available Books
+
 3.Check for fine
 
 # Users
 Users also provide us with three functionalites-:
-1.Search for book 
+1.Search for book
+
 2.Issue Book
+
 3.Return Book
 
 
