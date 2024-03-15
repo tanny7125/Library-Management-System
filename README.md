@@ -56,7 +56,7 @@ Users also provide us with three functionalites-:
 ## Search for Book in Users
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/2.png?raw=true)
 
-## Issure Book In users
+## Issue Book In users
 ![Output image](https://github.com/tanny7125/Library-Management-System/blob/main/Output%20images/3.png?raw=true)
 
 ## Return Book in Users
